@@ -1,0 +1,124 @@
+{
+  "veriler" : {
+    "Camera & Photo" : {
+      "Canon EOS 250D" : {
+        "aciklama" : "Canon.com",
+        "baslik" : "Canon EOS 250D",
+        "resimLink" : "kdkd"
+      },
+      "Canon EOS 5D Mark" : {
+        "aciklama" : "Canon.com",
+        "baslik" : "Canon EOS 5D Mark",
+        "resimLink" : "kdkd"
+      },
+      "Canon EOS M200" : {
+        "aciklama" : "Canon.com",
+        "baslik" : "Canon EOS M200",
+        "resimLink" : "kdkd"
+      },
+      "Nikon D3100" : {
+        "aciklama" : "nikon.com",
+        "baslik" : "Nikon D3100",
+        "resimLink" : "kdkd"
+      },
+      "Nikon D5100" : {
+        "aciklama" : "nikon.com",
+        "baslik" : "Nikon D5100",
+        "resimLink" : "kdkd"
+      }
+    },
+    "Computer" : {
+      "Acer" : {
+        "aciklama" : "Acer.com",
+        "baslik" : "Acer",
+        "resimLink" : "kfkfkf"
+      },
+      "Asus" : {
+        "aciklama" : "Asus.com",
+        "baslik" : "Asus",
+        "resimLink" : "kfkfkf"
+      },
+      "Dell" : {
+        "aciklama" : "Dell.com",
+        "baslik" : "Dell",
+        "resimLink" : "kfkfkf"
+      },
+      "HP" : {
+        "aciklama" : "HP.com",
+        "baslik" : "HP",
+        "resimLink" : "kfkfkf"
+      },
+      "Lenova " : {
+        "aciklama" : "lenova.com",
+        "baslik" : "Lenova ",
+        "resimLink" : "kfkfkf"
+      }
+    },
+    "Laptops" : {
+      "HP Zbook Power" : {
+        "aciklama" : "HP.com",
+        "baslik" : "HP Zbook Power",
+        "resimLink" : "kdkd"
+      },
+      "Huawei Matebook D" : {
+        "aciklama" : "Huawei.com",
+        "baslik" : "Huawei Matebook D",
+        "resimLink" : "kdkd"
+      },
+      "Lenovo T14S" : {
+        "aciklama" : "Lenovo.com",
+        "baslik" : "Lenovo T14S",
+        "resimLink" : "kdkd"
+      },
+      "MSI katana gf76" : {
+        "aciklama" : "Msı.com",
+        "baslik" : "MSI katana gf76",
+        "resimLink" : "kdkd"
+      },
+      "MaceBook Air " : {
+        "aciklama" : "Apple.com",
+        "baslik" : "MaceBook Air ",
+        "resimLink" : "kdkd"
+      }
+    },
+    "Phones" : {
+      "Realme 9 Pro" : {
+        "aciklama" : "8GB Ram 256 GB",
+        "baslik" : "Realme 9 Pro",
+        "resimLink" : "kfkfkf"
+      },
+      "Samsung Galaxy S21 " : {
+        "aciklama" : "Samsung Galaxy S21 64 GB",
+        "baslik" : "Samsung Galaxy S21 ",
+        "resimLink" : "kfkfkf"
+      },
+      "iPhone 12" : {
+        "aciklama" : "iPhone 12 128 GB",
+        "baslik" : "iPhone 12",
+        "resimLink" : "kfkfkf"
+      },
+      "iPhone 13" : {
+        "aciklama" : "iPhone 13 128 GB",
+        "baslik" : "iPhone 13",
+        "resimLink" : "kfkfkf"
+      }
+    },
+    "Watches" : {
+      "Apple Watch " : {
+        "aciklama" : "Apple.com",
+        "baslik" : "Apple Watch ",
+        "resimLink" : "kdkd"
+      },
+      "Huawei Watch GT3 Elite" : {
+        "aciklama" : "https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent",
+        "baslik" : "Huawei Watch GT3 Elite",
+        "resimLink" : "kdkd"
+      },
+      "Xiaomi Mi Watch" : {
+        "aciklama" : "Xiaomi.com",
+        "baslik" : "Xiaomi Mi Watch",
+        "resimLink" : "kdkd"
+      }
+    }
+  }
+}
