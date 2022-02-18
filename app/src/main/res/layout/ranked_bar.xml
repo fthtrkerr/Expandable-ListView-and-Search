@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@null"
+    android:layout_height="match_parent">
+
+
+
+    <RelativeLayout
+        android:layout_width="300dp"
+        android:layout_height="400dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/back"
+        android:backgroundTint="#BF14CA1C"
+
+        >
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/close"
+            android:src="@drawable/ic_baseline_close_24"
+            android:layout_alignParentRight="true"
+            ></ImageView>
+        <RatingBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:numStars="5"
+            android:stepSize="0.5"
+            android:layout_centerVertical="true"
+
+            android:id="@+id/rating"
+
+            android:layout_centerHorizontal="true"
+            ></RatingBar>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PUAN VERİN"
+            android:layout_below="@id/rating"
+            android:id="@+id/puan"
+            android:layout_margin="10dp"
+            android:layout_centerHorizontal="true"
+            ></Button>
+    </RelativeLayout>
+</RelativeLayout>

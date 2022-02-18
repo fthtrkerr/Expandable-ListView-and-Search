@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "875437928286",
+    "firebase_url": "https://szlk-51a68.firebaseio.com",
+    "project_id": "szlk-51a68",
+    "storage_bucket": "szlk-51a68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875437928286:android:8482dc091daaefb95229cf",
+        "android_client_info": {
+          "package_name": "com.application.szlk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875437928286-7qchpfns26iqao63ontsggid7moarvim.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.application.szlk",
+            "certificate_hash": "105532f8e99af6624fcb5819fe38b2bba44f4a6c"
+          }
+        },
+        {
+          "client_id": "875437928286-mlmv03knqts9i688oc7vvdeqv1627ic0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJi51MdJffFedK2ZlsX1GWpqmQ4z_0ER4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875437928286-mlmv03knqts9i688oc7vvdeqv1627ic0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
